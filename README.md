@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The shadows stretching out across the wooden floor
+> Your silhouette is standing by the open door
+> A single spark is dancing in the fading light
+> I want to lose myself inside your eyes tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
