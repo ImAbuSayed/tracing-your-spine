@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tracing Your Spine
+
+This log tracks the cryptographic history and versioning for the song **Tracing Your Spine** (tracing-your-spine).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-10T19:19:20.165024 | `v1` | `795134cb105cc3acbc325cf07f92c17db4ab99d1126abf706278a6ae823ad4e3` | `1385fea4f3b402978812ca790dc236c335687e572c31fe3424a28da2b7777e47` | `2026-06-10_tracing-your-spine-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
